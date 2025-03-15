@@ -3,11 +3,11 @@ _A comprehensive system for managing PSL ticket bookings, fan registrations, and
 
 ## ✨ Overview
 The **PSL Ticket Management System** allows users to:
-- Book tickets for PSL matches \U0001F3DF️
-- Check match schedules and stadium details \U0001F4C5
+- Book tickets for PSL matches
+- Check match schedules and stadium details
 - Verify ticket validity ✅
-- Manage fan registrations and purchase history \U0001F464
-- Process refunds seamlessly \U0001F4B3
+- Manage fan registrations and purchase history 
+- Process refunds seamlessly 
 
 This system is built using **Python**, **SQLite**, and **Tkinter** for an interactive GUI.
 
