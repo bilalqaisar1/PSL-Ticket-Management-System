@@ -1,4 +1,4 @@
-# PSL Ticket Management System \U0001F39F️🏏
+# PSL Ticket Management System 🏏
 _A comprehensive system for managing PSL ticket bookings, fan registrations, and match schedules._
 
 ![PSL Logo](https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Pakistan_Super_League_logo.svg/512px-Pakistan_Super_League_logo.svg.png)
