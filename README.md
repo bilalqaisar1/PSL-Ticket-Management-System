@@ -1,8 +1,6 @@
 # PSL Ticket Management System 🏏
 _A comprehensive system for managing PSL ticket bookings, fan registrations, and match schedules._
 
-![PSL Logo](https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Pakistan_Super_League_logo.svg/512px-Pakistan_Super_League_logo.svg.png)
-
 ## ✨ Overview
 The **PSL Ticket Management System** allows users to:
 - Book tickets for PSL matches \U0001F3DF️
@@ -67,13 +65,6 @@ python front_end.py
 
 ---
 
-## 🖼️ Screenshots
-| Ticket Booking | Match Schedule | Fan Management |
-|---------------|----------------|----------------|
-| ![Booking](https://via.placeholder.com/200x150) | ![Schedule](https://via.placeholder.com/200x150) | ![Fan](https://via.placeholder.com/200x150) |
-
----
-
 ## ✨ Project Structure
 ```
 📦 PSL-Ticket-Management-System
@@ -86,12 +77,12 @@ python front_end.py
 ---
 
 ## ✨ Contributions & Issues
-\U0001F538 Found a bug or have a suggestion? [Open an issue](https://github.com/bilalqaisar1/PSL-Ticket-Management-System/issues).  
-\U0001F538 Want to contribute? Fork the repo and submit a PR!  
+ Found a bug or have a suggestion? [Open an issue](https://github.com/bilalqaisar1/PSL-Ticket-Management-System/issues).  
+ Want to contribute? Fork the repo and submit a PR!  
 
 📧 For inquiries, contact [Bilal Qaisar](mailto:muhammadbilalqaiar@gmail.com).
 
 ---
 
-### ✨ Enjoy PSL Matches with Seamless Ticket Booking! 🏏\U0001F39F️
+### ✨ Enjoy PSL Matches with Seamless Ticket Booking! 🏏
 
